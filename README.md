@@ -1,4 +1,4 @@
-# Network Security - Phishing Email Detection
+# Network Security - Phishing Website Detection
 
 A machine learning pipeline for detecting and classifying phishing network data. This project fetches data from MongoDB, validates it, applies transformations, and trains ML models with experiment tracking.
 
